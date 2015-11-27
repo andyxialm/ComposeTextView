@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ComposeTextView">
+        <attr name="format" format="string"/>
+        <attr name="lastTextColor" format="color"/>
+        <attr name="perGroupLength" format="integer"/>
+        <attr name="lastTextLength" format="integer"/>
+        <attr name="lastStyleEnable" format="boolean"/>
+    </declare-styleable>
+</resources>
